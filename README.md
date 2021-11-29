@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ntxhiav
-- 👀 I’m interested in JavaScript, Lua, Java, Python, C++, and C#.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ... (non yet, I'm still a student learning)
+- 👀 I’m interested in JavaScript, Lua, Java, Python, C++, C#, and React.
+- 🌱 I’m currently learning Javascript and Lua.
+- 💞️ I’m looking to collaborate on ... (none yet, I'm still a student learning)
 - 📫 How to reach me ...
 
 <!---
